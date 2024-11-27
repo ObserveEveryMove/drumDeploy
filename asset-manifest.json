@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/drumDeploy/static/css/main.f919d12c.css",
+    "main.js": "/drumDeploy/static/js/main.879909c4.js",
+    "static/media/cymbal2.wav": "/drumDeploy/static/media/cymbal2.c539dd9a7dad91ff3c32.wav",
+    "static/media/cymbal4.wav": "/drumDeploy/static/media/cymbal4.4ec02dde22c5003d0726.wav",
+    "static/media/cymbal3.wav": "/drumDeploy/static/media/cymbal3.9123412727bb8449e12c.wav",
+    "static/media/cymbal1.wav": "/drumDeploy/static/media/cymbal1.b9d8b99cd6fc08f1fd02.wav",
+    "static/media/cymbal6.wav": "/drumDeploy/static/media/cymbal6.f5c2525c4760f76c2b89.wav",
+    "static/media/tom3.wav": "/drumDeploy/static/media/tom3.9235c42074759685cbe1.wav",
+    "static/media/tom1.wav": "/drumDeploy/static/media/tom1.3ea465a4b1528bbeff93.wav",
+    "static/media/tom2.wav": "/drumDeploy/static/media/tom2.e84e59d78a83ccb9bbcd.wav",
+    "static/media/kick2.wav": "/drumDeploy/static/media/kick2.ff1246328e440c1b1094.wav",
+    "static/media/tom4.wav": "/drumDeploy/static/media/tom4.1a2754b7b24f4152c707.wav",
+    "static/media/kick1.wav": "/drumDeploy/static/media/kick1.b0a23e13972a68817a9e.wav",
+    "static/media/cymbal5.wav": "/drumDeploy/static/media/cymbal5.9d1ebb6151677bc9b26d.wav",
+    "static/media/snare2.wav": "/drumDeploy/static/media/snare2.fc04fdd89c6472c09597.wav",
+    "static/media/cymbal8.wav": "/drumDeploy/static/media/cymbal8.a561e4ff14a335e302c4.wav",
+    "static/media/snare1.wav": "/drumDeploy/static/media/snare1.8ae42ed6e727ec861671.wav",
+    "static/media/cymbal7.wav": "/drumDeploy/static/media/cymbal7.5980cdcd68762f550cc2.wav",
+    "index.html": "/drumDeploy/index.html",
+    "main.f919d12c.css.map": "/drumDeploy/static/css/main.f919d12c.css.map",
+    "main.879909c4.js.map": "/drumDeploy/static/js/main.879909c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f919d12c.css",
+    "static/js/main.879909c4.js"
+  ]
+}
